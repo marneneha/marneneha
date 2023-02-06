@@ -2,7 +2,7 @@
 ![logo](https://github.com/marneneha/marneneha/blob/master/collage_for_website.png)
 <h1 align="center">Hi 👋, I'm Neha Marne</h1>
 <h3 align="center">Interested in Multi-agent systems, Machine Learning, and Reinforcement Learning</h3>
-<img align="right" alt="coding_GIF" width="400" src="https://user-images.githubusercontent.com/51331480/216860459-872677c5-8d87-413a-baee-605ec25b51df.png">
+<img align="right" alt="coding_GIF" width="400" src="https://i.imgur.com/3fAd0w8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marneneha&label=Profile%20views&color=0e75b6&style=flat" alt="marneneha" /> </p>
 
 - 🌱 I’m currently learning **Reinforcement Learning**
