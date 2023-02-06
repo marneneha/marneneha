@@ -1,5 +1,5 @@
-![logo](https://github.com/marneneha/marneneha/blob/master/collage_for_website.png)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+![logo](https://github.com/marneneha/marneneha/blob/master/collage_for_website.png)
 <h1 align="center">Hi 👋, I'm Neha Marne</h1>
 <h3 align="center">Interested in Multi-agent systems, Machine Learning, and Reinforcement Learning</h3>
 <img align="right" alt="coding_GIF" width="400" src="https://user-images.githubusercontent.com/51331480/216860459-872677c5-8d87-413a-baee-605ec25b51df.png">
