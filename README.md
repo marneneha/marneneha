@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [nehamarne.github.io](nehamarne.github.io)
+- 👨‍💻 All of my projects are available at [nehamarne.github.io](nehamarne.github.io](https://marneneha.github.io/nehamarne.github.io/))
 
 - 💬 Ask me about **Multi-agent systems**
 
-- 📫 How to reach me **nmarne@umd.edu**
+- 📫 How to reach me **nehamarne27@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19h2tg38eZNbpF8weqONRUmwf6-MHnwxg/view?usp=sharing)
 
