@@ -4,15 +4,12 @@
 <img align="right" alt="coding_GIF" width="400" src="https://i.imgur.com/3fAd0w8.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marneneha&label=Profile%20views&color=0e75b6&style=flat" alt="marneneha" /> </p> -->
 
-- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [nehamarne.github.io](nehamarne.github.io](https://marneneha.github.io/nehamarne.github.io/))
 
-- 💬 Ask me about **Multi-agent systems**
-
 - 📫 How to reach me **nehamarne27@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19h2tg38eZNbpF8weqONRUmwf6-MHnwxg/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/19h2tg38eZNbpF8weqONRUmwf6-MHnwxg/view?usp=sharing](https://drive.google.com/file/d/1YVh_doN_rhv3VIlYhBh5U-4HwifzQN2-/view?usp=sharing))
 
 - Pronouns: She/Her/Hers
 
